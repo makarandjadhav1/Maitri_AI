@@ -1,8 +1,14 @@
+audio-recorder-streamlit
 streamlit
+python-dotenv
+groq
+requests
 langchain
 langchain-groq
-python-dotenv
+langchain-core
+langchain-community
 wikipedia
 pyjokes
-requests
-langchain-community
+streamlit-audiorecorder
+gTTS
+faster-whisper
